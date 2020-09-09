@@ -1,3 +1,5 @@
+https://medium.com/@sjlouji10/react-and-react-redux-connecting-to-redux-49b01a5dd1e0?sk=827e158520a96a2357a8e87f7fe96b7e
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
